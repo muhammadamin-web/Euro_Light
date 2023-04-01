@@ -386,7 +386,7 @@ align-items: center;
 @media (max-width: 420px) {
     .img-slider {
         width: 100%;
-        height: auto;
+        height: 610px;
     }
 
     .img-slider .slide .info {
@@ -552,7 +552,7 @@ align-items: center;
 
 @media (max-width: 680px) {
     .projects {
-        font-size: 30px;
+        font-size: 25px;
         padding: 50px 50px 0px 50px;
     }
 
@@ -787,7 +787,7 @@ align-items: center;
 
 @media (max-width: 680px) {
     .products {
-        font-size: 30px;
+        font-size: 25px;
         padding: 50px 50px 50px 50px;
     }
 
