@@ -5,6 +5,7 @@ const langData = {
       "projects": "Loyihalarimiz",
       "contact": "Bog'lanish",
       "products": "Mahsulotlarimiz", 
+      "design": "Interior dizayn", 
       "about_text": "\"\Euro Light\"\ eksklyuziv ko'rgazma zalida noyob zamonaviy texnologiyalar va dizayn loyihalari yordamida yaratilgan 800 dan ortiq premium yoritish mahsulotlarini taqdim etadi. Qadimgi klassikadan tortib eng so'nggi yuqori texnologiyali yo'nalishlargacha bo'lgan eng yaxshi interyer uslublarida ishlab chiqarilgan qandillar,\nlampalar, pol lampalarining keng assortimenti hatto eng talabchan mijozlarni ham xursand qiladi.",
       
       "location": "Toshkent sh. Ohongaron yo'li",
@@ -30,6 +31,7 @@ const langData = {
       "projects": "Наши проекты",
       "contact": "Контакты",
       "products": "Продукты",
+      "design": "Интерьер дизайн",
       "about_text": "Эксклюзивный шоурум “Candela” представляет более 800 осветительных приборов премиум-класса, созданных по уникальным современным технологиям и дизайнерским проектам. Широкий ассортимент люстр, бра, светильников, торшеров, изготовленных в лучших стилях интерьера от нестареющей классики до последних тенденций Hi -Tech, порадует даже самых требовательных клиентов.",
       "location": "г. Ташкент, Охонгара р.",
       "job_time": "Каждый день с 9:00 до 18:00",
