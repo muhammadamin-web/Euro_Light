@@ -95,7 +95,11 @@ a.btn {
   }
   div.card img {
     width: 100%;
+<<<<<<< HEAD
+    height: 425px;
+=======
     height: 450px;
+>>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
     object-fit: cover;
   }
   div.card .card__image-holder {
@@ -210,7 +214,46 @@ a.btn {
     transition: all 0.3s 0.2s ease-out;
   }
 
+<<<<<<< HEAD
+  /* Zoom img */
+  .zoom-image {
+    transition: transform 8s ease, left 8s ease, top 8s ease; /* Slower transition */
+}
+
+  /* Zoom img END */
+
+  @media (max-width: 1660px) {
+    div.card img {
+      height: 370px;
+    }
+
+  }
+  @media (max-width: 1550px) {
+    div.card img {
+      height: 345px;
+    }
+
+  }
+  @media (max-width: 1460px) {
+    div.card img {
+      height: 324px;
+    }
+
+  }
+  @media (max-width: 1350px) {
+    div.card img {
+      height: 304px;
+    }
+
+  }
+
   @media (max-width: 1200px) {
+    div.card img {
+      height: 398px;
+    }
+=======
+  @media (max-width: 1200px) {
+>>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
     .card {
       width: 49%;
     }
@@ -218,16 +261,72 @@ a.btn {
       gap: 0px;
     }
   }
+<<<<<<< HEAD
+  @media (max-width: 1100px) {
+    div.card img {
+      height: 367px;
+    }
+
+  }
+=======
+>>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
   @media (max-width: 1000px) {
     .card {
       width: 99%;
     }
     div.card img {
+<<<<<<< HEAD
+      height: 663px;
+=======
       height: 680px;
+>>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
     }
 
   }
   @media (max-width: 800px) {
+<<<<<<< HEAD
+    div.card img {
+      height: 550px;
+    }
+
+  }
+  @media (max-width: 740px) {
+    div.card img {
+      height: 500px;
+    }
+
+  }
+  @media (max-width: 660px) {
+    div.card img {
+      height: 444px;
+    }
+
+  }
+  @media (max-width: 570px) {
+    div.card img {
+      height: 383px;
+    }
+
+  }
+  @media (max-width: 500px) {
+    div.card img {
+      height: 336px;
+    }
+
+  }
+  @media (max-width: 436px) {
+    div.card img {
+      height: 290px;
+    }
+
+  }
+  @media (max-width: 390px) {
+    div.card img {
+      height: 265px;
+    }
+
+  }
+=======
     .card {
       width: 70%;
     }
@@ -236,3 +335,4 @@ a.btn {
     } */
 
   }
+>>>>>>> abc07ea3de89e60dbb945315c4086fc917704249

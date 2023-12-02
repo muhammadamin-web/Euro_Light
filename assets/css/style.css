@@ -27,7 +27,11 @@ nav {
     width: 100%;
     padding: 12px 0;
     background: #000;
+<<<<<<< HEAD
+    background-color: rgba(0, 0, 0, 0.7);
+=======
     /* background-color: rgba(0, 0, 0, 0.9); */
+>>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
     position: fixed;
     /* Fixed Sidebar (stay in place on scroll) */
     z-index: 100;
@@ -151,6 +155,7 @@ nav label.btn {
 
 nav label.cancel {
     position: absolute;
+    color: #000;
     top: 25px;
     right: 30px;
     font-weight: 200;
@@ -270,11 +275,19 @@ align-items: center;
     }
 }
 
+<<<<<<< HEAD
+/* @media (max-width:1200px) {
+    .img-slider {
+        margin-top: 77px;
+    }
+} */
+=======
 @media (max-width:1200px) {
     .img-slider {
         margin-top: 77px;
     }
 }
+>>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
 @media (max-width:960px) {
     .img_logo1 {
         width: 80%;
@@ -296,8 +309,13 @@ align-items: center;
 .img-slider {
 
     width: 100%;
+<<<<<<< HEAD
+    height: 100vh;
+    /* margin-top: 96px; */
+=======
     height: 75vh;
     margin-top: 96px;
+>>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
     background: #1D212B;
 }
 
@@ -318,7 +336,11 @@ align-items: center;
 .img-slider .slide img {
     z-index: 1;
     width: 100%;
+<<<<<<< HEAD
+    height: 100vh;
+=======
     height: 75vh;
+>>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
     object-fit: cover;
 }
 
@@ -355,7 +377,7 @@ align-items: center;
 
 .navigation {
     position: absolute;
-    top: 90%;
+    top: 92vh;
 }
 
 .img-slider .navigation .btn {
@@ -391,13 +413,13 @@ align-items: center;
 @media (max-width: 820px) {
     .img-slider {
         width: 100%;
-        height: 375px;
+        height: 100vh;
     }
 
     .img-slider .slide img {
         z-index: 1;
         width: 100%;
-        height: 610px;
+        height: 100vh;
     }
 
     .img-slider .slide .info {
@@ -412,10 +434,6 @@ align-items: center;
         width: 70%;
         font-size: 15px;
     }
-
-    .img-slider .navigation {
-top: 75%;    }
-
     .img-slider .navigation .btn {
         width: 10px;
         height: 10px;
@@ -425,9 +443,8 @@ top: 75%;    }
 
 @media (max-width: 680px) {
     .img-slider {
-        margin-top: 66px;
         width: 100%;
-        height: 610px;
+        height: 100vh;
     }
 
     .img-slider .slide .info {
@@ -443,10 +460,6 @@ top: 75%;    }
         font-size: 13px;
     }
 
-    .img-slider .navigation {
-top:90%;
-    }
-
     .img-slider .navigation .btn {
         width: 8px;
         height: 8px;
@@ -457,7 +470,7 @@ top:90%;
 @media (max-width: 420px) {
     .img-slider {
         width: 100%;
-        height: 610px;
+        height: 100vh;
     }
 
     .img-slider .slide .info {
@@ -473,10 +486,7 @@ top:90%;
         font-size: 11px;
     }
 
-    .img-slider .navigation {
-top: 90%;    }
 }
-
 /* about */
 .about {
     font-size: 30px;

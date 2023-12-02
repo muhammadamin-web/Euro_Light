@@ -253,6 +253,20 @@
       display: block;
     }
   } 
+<<<<<<< HEAD
+  @media (max-width: 420px) {
+    .catecories {
+      padding-left: 1000px;
+    }
+    .footer-columns {
+      padding: 24px 0px 16px 10px;
+    }
+    .footer-wrapper {
+      padding: 0;
+    }
+  }
+=======
+>>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
   
 
 /* costumer icon */
