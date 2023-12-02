@@ -253,7 +253,6 @@
       display: block;
     }
   } 
-<<<<<<< HEAD
   @media (max-width: 420px) {
     .catecories {
       padding-left: 1000px;
@@ -265,8 +264,6 @@
       padding: 0;
     }
   }
-=======
->>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
   
 
 /* costumer icon */

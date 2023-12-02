@@ -95,11 +95,7 @@ a.btn {
   }
   div.card img {
     width: 100%;
-<<<<<<< HEAD
     height: 425px;
-=======
-    height: 450px;
->>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
     object-fit: cover;
   }
   div.card .card__image-holder {
@@ -214,7 +210,6 @@ a.btn {
     transition: all 0.3s 0.2s ease-out;
   }
 
-<<<<<<< HEAD
   /* Zoom img */
   .zoom-image {
     transition: transform 8s ease, left 8s ease, top 8s ease; /* Slower transition */
@@ -251,9 +246,6 @@ a.btn {
     div.card img {
       height: 398px;
     }
-=======
-  @media (max-width: 1200px) {
->>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
     .card {
       width: 49%;
     }
@@ -261,30 +253,22 @@ a.btn {
       gap: 0px;
     }
   }
-<<<<<<< HEAD
   @media (max-width: 1100px) {
     div.card img {
       height: 367px;
     }
 
   }
-=======
->>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
   @media (max-width: 1000px) {
     .card {
       width: 99%;
     }
     div.card img {
-<<<<<<< HEAD
       height: 663px;
-=======
-      height: 680px;
->>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
     }
 
   }
   @media (max-width: 800px) {
-<<<<<<< HEAD
     div.card img {
       height: 550px;
     }
@@ -326,13 +310,3 @@ a.btn {
     }
 
   }
-=======
-    .card {
-      width: 70%;
-    }
-    /* div.card img {
-      height: 680px;
-    } */
-
-  }
->>>>>>> abc07ea3de89e60dbb945315c4086fc917704249
