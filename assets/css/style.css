@@ -368,13 +368,17 @@ align-items: center;
     border-radius: 50%;
     cursor: pointer;
 }
-
+.img-slider {
+    /* position: absolute;
+    top: 0px; */
+    
+}
 .img-slider .navigation .btn.active {
     background: black;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
 }
 
-@media (max-width: 1625px) {
+/* @media (max-width: 1625px) {
     .img-slider {
         margin-top: 93px;
     }
@@ -388,7 +392,7 @@ align-items: center;
     .img-slider {
         margin-top: 66px;
     }
-}
+} */
 @media (max-width: 820px) {
     .img-slider {
         width: 100%;
